@@ -22,6 +22,8 @@ cmake ..
 
 ## Result
 
-![Demo No Hook](https://github.com/styinx/DLLInject/blob/main/demo_nohook.png | width=300)
-![Demo Hook](https://github.com/styinx/DLLInject/blob/main/demo_hook.png | width=300)
-![Game Hook](https://github.com/styinx/DLLInject/blob/main/game_hook.png | width=300)
+![Demo No Hook](https://github.com/styinx/DLLInject/blob/main/demo_nohook.png)
+
+![Demo Hook](https://github.com/styinx/DLLInject/blob/main/demo_hook.png)
+
+![Game Hook](https://github.com/styinx/DLLInject/blob/main/game_hook.png)
